@@ -1,0 +1,10 @@
+CaD AAA Bda BDC dcc ABd cbD cAd baa dBA Dbb DDB aAC DDc CdB Aab DAC ADc dda ddd BbD aBc AaC aAb
+aaD AAA cda aDC dcc ABd AbD cAd Caa dBA Dbb DDB aAb DDB CdB Abb DBC ADc dda ddd BbD aBc AaC aAb
+CaD BAA BAa BaC dAc cBC cbD cad bAA dBa DbA DDa CBC ADc CdB Aab DAC ADc dda add AbD aBc BaC aAc
+CaD CAA Bda CDC dac ABC cbD cAd baa dBA Dbb DDB aAC DDc Cdc AaC DAa ADA ddc ddd DbD aBc CaC aAb
+CaD aAA Bda cDC dBc ABc cbD ccd bCa CBA Dbb DDB aAC ADc CdB Aab cAC ADc dda add abD aBc AaC aAb
+CaB aAA Bda cDC dBc ABc cbD ccd bCa aBA Dbb DDB aAC ADc CdB Aab AAC dDc dda add abD aBc AaC DAb
+Caa aAA BDa cdc dBC BBc cbD Acd bCc CBC Dbb DDB bAC ADc adB Aab cAC BDc dda add abD aBc AaC bAb
+Cac bAA BDa cdc dcC BBc cbD Acd bCc CBC Dbb DcB bAC ADc adB Aab cAC BDc dda aAd bbD aBc caC bAa
+CaB DAA BDa Ddc dDC BBA cbD Acd bCc CBC Dbb DBB baC ADc adB Aab cAC BDc ddA acd BbD aBC cac bAA
+Cad aAA BDa ddc dbC BBb cbD Acd bCc CBC Dbb DcB bCC ADc adB Aab cAC BDc ddA acd AbD aBC Aac bAc
